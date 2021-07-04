@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vaishnavi Annagiri,currently pursuing integrated masters in Computer Science Engineering specializing in Soft Engineering
+- 👋 Hi, I’m Vaishnavi Annagiri,currently pursuing integrated masters in Computer Science Engineering specializing in Software Engineering
 - 👀 I’m interested in the world of data.I am fascinated and I marvel at the wonders that we can do with data.I am profoundly interested in the key niches of data science,big data,machine learning,deep laerning,NLP,chat bot development,UX/UI etc.
 
 - 🌱 I’m currently learning machine learning,deep learning,NLP,chatbot developement,web developement.
